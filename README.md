@@ -2,12 +2,13 @@
 Addon for Blender 2.8 to manage camera animation
 
 Download the Zip file.
+Extract the zip and find the *.py file
 
 Open Blender 2.8
 Tope Menu-> Edit-> User Preferences
 Select Add-ons tab on the Left
 Click on "Install Add-on from file"
-Browse the Zip file and Click on "Install Add-ons from File" on top Right
+Browse the *.py file and Click on "Install Add-ons from File" on top Right
 Active the addon with the check box
 
 
