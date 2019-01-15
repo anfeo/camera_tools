@@ -73,7 +73,7 @@ def main(context):
                 print("do")
             else:   
                 bpy.ops.anim.keyframe_insert(type='BUILTIN_KSI_LocRot') 
-                scene.frame_current += fram_t
+                scene.frame_current += frame_t
         else:
             if wait == 0.00:
                 bpy.ops.anim.keyframe_insert(type='BUILTIN_KSI_LocRot')
