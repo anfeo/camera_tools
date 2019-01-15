@@ -20,3 +20,5 @@ Add camera on Camera Tools list panel
 
 Hold: time in second of how still the camera
 Time: time in secon of how many second it go from one camera to other (ex: 0.00 is rapid change of shoot) 
+
+https://youtu.be/KitO0NSkFQQ
